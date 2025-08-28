@@ -25,6 +25,13 @@ header nav ul li a {
     text-decoration: none;
 }
 
+header img {
+
+width: 175px;
+height: 110px;
+object-fit: cover;
+}
+
 header{
 
 display: flex;
