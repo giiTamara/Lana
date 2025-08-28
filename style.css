@@ -13,10 +13,13 @@ nav li {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+
 }
+
 header nav ul li a {
     text-decoration: none;
 }
+
 header{
 
 display: flex;
