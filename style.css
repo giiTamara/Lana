@@ -30,6 +30,9 @@ header img {
 width: 175px;
 height: 110px;
 object-fit: cover;
+
+border: 10px solid;
+border-radius: 25px;
 }
 
 header{
