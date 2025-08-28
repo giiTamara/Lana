@@ -23,3 +23,10 @@ height: 160px;
 background-color: rgb(24, 22, 22);
 border: 10px solid;
 }
+
+*{
+  /* normalização*/
+  margin: 0px;
+  padding: 0%;
+  box-sizing: border-box;
+}
