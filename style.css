@@ -105,4 +105,8 @@ header nav ul li {
 
   width: 950px;
   height: 502px;
+
+  background-color: blueviolet;
+  border: 10px solid;
+  border-radius: 268px;
 }
