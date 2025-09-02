@@ -102,8 +102,8 @@ main{
 .lana_1 img,
 .lana_3 img {
 
-  width: 138px;
-  height: 137px;
+  width: 50%;
+  height: 20%;
   object-fit: cover;
 }
 
