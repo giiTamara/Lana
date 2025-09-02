@@ -76,3 +76,19 @@ header nav ul li {
   margin-right: 145px;
   background-color: rgb(45, 54, 54);
 }
+.lana_1,
+.lana_3 {
+
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-around;
+
+  width: 250px;
+  height: 549px;
+
+  background-color: white;
+
+  border: 10px solid;
+  border-radius: 50px;
+}
