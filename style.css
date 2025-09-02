@@ -92,3 +92,11 @@ header nav ul li {
   border: 10px solid;
   border-radius: 50px;
 }
+
+.lana_1 img,
+.lana_3 img {
+
+  width: 138px;
+  height: 137px;
+  object-fit: cover;
+}
