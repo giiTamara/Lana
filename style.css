@@ -110,3 +110,11 @@ header nav ul li {
   border: 10px solid;
   border-radius: 268px;
 }
+
+.lana_centro img{
+
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 268px;
+}
