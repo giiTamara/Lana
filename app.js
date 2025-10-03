@@ -5,13 +5,13 @@ function trocaFoto() {
 
     if (foto_troca === false) {
         for (let i = 0; i < imagem.length; i++) {
-            imagem[i].src = `lana(${i + 8}).jpeg`;
+            imagem[i].src = `lana(${i + 9}).jpeg`;
         }
         foto_troca = true;
     } else {
         for (let i = 0; i > imagem.length; i++) {
 
-                imagem[i].src = `i${i + 1}.jpeg`
+                imagem[i].src = `lana${i + 0}.jpeg`
             
         }
         foto_troca = false;
