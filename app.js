@@ -10,11 +10,10 @@ function trocaFoto() {
         foto_troca = true;
     } else {
         for (let i = 0; i > imagem.length; i++) {
-            if (foto_troca === false) {
+            
                 imagem[i].jpeg = `i${i + 1}.jpeg`
-                
-            }
-            foto_troca = false;
+            
         }
+        foto_troca = false;
     }
 }
