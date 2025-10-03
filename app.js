@@ -11,7 +11,7 @@ function trocaFoto() {
     } else {
         for (let i = 0; i > imagem.length; i++) {
 
-                imagem[i].jpeg = `i${i + 1}.jpeg`
+                imagem[i].src = `i${i + 1}.jpeg`
             
         }
         foto_troca = false;
